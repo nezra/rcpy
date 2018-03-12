@@ -82,7 +82,7 @@ def cleanup():
         while len(pipes):
             destroy_pipe(pipes[0])
         
-    print('Dnoe with cleanup')
+    print('Done with cleanup')
     
 # idle function
 def idle():
